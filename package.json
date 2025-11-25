@@ -37,7 +37,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hixbe",
+        "label": "Hixbe Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/hixbe-theme.json"
       }
