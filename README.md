@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hixbe Logo" src="https://raw.githubusercontent.com/hixbehq/hixbe-theme/master/images/logo.png" width="100" />
+  <img alt="Hixbe Logo" src="https://raw.githubusercontent.com/hixbehq/hixbe-theme/main/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Hixbe Theme for VS Code
