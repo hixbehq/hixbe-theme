@@ -2,7 +2,7 @@
   "name": "hixbe-theme",
   "displayName": "Hixbe Theme",
   "description": "A dark blue theme for VS Code based on the Ayu Mirage theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "hixbehq",
   "icon": "images/logo.png",
   "author": {

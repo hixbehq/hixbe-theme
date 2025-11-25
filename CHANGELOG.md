@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/hixbehq/hixbe-theme/compare/v1.0.0...v1.0.1) (2025-11-25)
+
+
+### Bug Fixes
+
+* demo image ([d02100a](https://github.com/hixbehq/hixbe-theme/commit/d02100a4977e35f651bdc0dc45c51cec76e25f36))
+
 # 1.0.0 (2025-11-25)
 
 
