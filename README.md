@@ -35,7 +35,7 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hixbehq/hixbe-theme/main/images/demo.png" alt="Hixbe Theme Demo" width="100%" />
+  <img src="https://raw.githubusercontent.com/hixbehq/hixbe-theme/main/images/demo-v1.png" alt="Hixbe Theme Demo" width="100%" />
   <p><em>Hixbe Theme in action – clean, dark, and beautiful.</em></p>
 </div>
 
